@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/tictactoe_react/static/js/main.d0f728d9.chunk.js",
-    "main.js.map": "/tictactoe_react/static/js/main.d0f728d9.chunk.js.map",
+    "main.js": "/tictactoe_react/static/js/main.37a1a406.chunk.js",
+    "main.js.map": "/tictactoe_react/static/js/main.37a1a406.chunk.js.map",
     "runtime-main.js": "/tictactoe_react/static/js/runtime-main.2a02c2b2.js",
     "runtime-main.js.map": "/tictactoe_react/static/js/runtime-main.2a02c2b2.js.map",
     "static/js/2.126e1cb3.chunk.js": "/tictactoe_react/static/js/2.126e1cb3.chunk.js",
     "static/js/2.126e1cb3.chunk.js.map": "/tictactoe_react/static/js/2.126e1cb3.chunk.js.map",
     "index.html": "/tictactoe_react/index.html",
-    "precache-manifest.c304a62d0a06a8a60cb373fd11057c12.js": "/tictactoe_react/precache-manifest.c304a62d0a06a8a60cb373fd11057c12.js",
+    "precache-manifest.df896373e95b30cfbcc28fb37c1223a8.js": "/tictactoe_react/precache-manifest.df896373e95b30cfbcc28fb37c1223a8.js",
     "service-worker.js": "/tictactoe_react/service-worker.js",
     "static/js/2.126e1cb3.chunk.js.LICENSE": "/tictactoe_react/static/js/2.126e1cb3.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.2a02c2b2.js",
     "static/js/2.126e1cb3.chunk.js",
-    "static/js/main.d0f728d9.chunk.js"
+    "static/js/main.37a1a406.chunk.js"
   ]
 }
